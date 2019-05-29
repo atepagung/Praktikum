@@ -1,0 +1,22 @@
+UAS ANALGO 2019
+----------------------------------
+
+Untuk UAS Analgo silahkan buat kelompok terdiri dari 3 orang
+den buatlah tugas dengan ketentuan sebagai berikut
+
+1. Buat self-running presentation
+2. materi berisikan algoritma yang dipelajari dikelas analgo
+3. jelaskan bagaimana worst case - best case scenarionya
+4. selain dari tulisan, gambar, dan animasi. penjelasan dapat ditambahkan audio track (nilai tambah)
+5. contoh soal beserta penyelesaian (1 soal)
+6. contoh implementasi real penggunaan algoritma tersebut di dunia nyata.
+7. sertakan daftar pustaka
+
+-----------
+pengumpulan
+-----------
+tugas dikirimkan lewat email ke : ananta.ragil@gmail.com
+
+deadline :
+- Minggu 02/06/2019
+- jam 23.59
